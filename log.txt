@@ -1,0 +1,5 @@
+logger=settings t=2025-09-19T11:18:51.071798068Z level=info msg="Starting Grafana" version=12.1.1 commit=df5de8219b41d1e639e003bf5f3a85913761d167 branch=HEAD compiled=2025-09-19T11:18:51Z
+logger=settings t=2025-09-19T11:20:42.842003994Z level=info msg="Starting Grafana" version=12.1.1 commit=df5de8219b41d1e639e003bf5f3a85913761d167 branch=HEAD compiled=2025-09-19T11:20:42Z
+logger=settings t=2025-09-19T11:53:41.190870181Z level=info msg="Starting Grafana" version=12.1.1 commit=df5de8219b41d1e639e003bf5f3a85913761d167 branch=HEAD compiled=2025-09-19T11:53:41Z
+logger=settings t=2025-09-21T04:42:48.840242646Z level=info msg="Starting Grafana" version=12.1.1 commit=df5de8219b41d1e639e003bf5f3a85913761d167 branch=HEAD compiled=2025-09-21T04:42:48Z
+logger=settings t=2025-09-21T04:51:25.49465528Z level=info msg="Starting Grafana" version=12.1.1 commit=df5de8219b41d1e639e003bf5f3a85913761d167 branch=HEAD compiled=2025-09-21T04:51:25Z
