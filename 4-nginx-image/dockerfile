@@ -1,0 +1,6 @@
+FROM nginx:1.29.1
+COPY default.conf /etc/nginx/conf.d  
+#COPY ./www /var/www  # Копируем содержимое www в /var/www  
+COPY index.html /usr/share/nginx/html
+#CMD ["nginx", "-g", "daemon off;"]  # Запускаем Nginx как процесс  
+EXPOSE 80
